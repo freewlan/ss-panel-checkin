@@ -1,8 +1,5 @@
 # sspanel_checkin
 
-## Requirements
-- [Golang](https://golang.org/doc/install) with `$GOPATH` set to your preferred directory
-
 ## Build
 1. Get source code
 

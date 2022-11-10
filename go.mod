@@ -1,3 +1,3 @@
 module github.com/freewlan/ss-panel-checkin
 
-go 1.19
+go 1.12
