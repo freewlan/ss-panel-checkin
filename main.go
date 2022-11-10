@@ -4,7 +4,7 @@ import (
 	"flag"
 	"log"
 
-	"github.com/iczc/ss-panel-checkin/checkin"
+	"github.com/freewlan/ss-panel-checkin/checkin"
 )
 
 var (
